@@ -11,4 +11,7 @@ gem install jekyll
 
 ## 致谢
 
-本博客参考 修改，感谢！ 
+本博客参考 https://huangxuan.me/huxblog-boilerplate/ 修改，感谢！ 
+
+
+参考：https://sspai.com/post/63198

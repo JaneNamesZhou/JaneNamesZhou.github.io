@@ -1,0 +1,22 @@
+---
+layout:     post
+title:      "Welcome to Jane Blog"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2024-11-08
+author:     "Jane"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - 生活
+---
+
+> “Yeah It's on. ”
+
+
+
+
+在公司办公室忙里偷闲弄好了这个博客，也算是为自己的30岁开了个头。
+
+以后就在这里记录自己的生活和成长吧！
+
+
+
