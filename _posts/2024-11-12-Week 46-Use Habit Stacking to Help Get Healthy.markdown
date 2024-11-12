@@ -13,9 +13,15 @@ tags:
 
 A woman in Portland, Oregon started her daily exercise habit with one activity – walking her dog. Lindsay Kee then added movements to this daily activity. Before leaving on the walk, she did some standing stretches. On her return, she did other exercises such as jumping jacks.
 
-> **A woman** (in Portland, Oregon 地点状语) **started** her daily exercise **habit** (with one activity – walking her dog).
+> - 句子拆分：**A woman** (in Portland, Oregon) **started** her daily exercise **habit** (with one activity – walking her dog). 
+> - Before leaving on the walk：用介词 "on" 而不是其他介词（如 "for" 或 "to"），这是因为 "on" 在这里用来表示参与或进行某种活动，如果使用 "for the walk"，虽然也可以表达类似的意思，但 "for" 更多的是表示目的，即“为了散步而做准备”，而 "on" 则更侧重于活动本身。
+> - jumping jacks：开合跳
 
 Over time, Kee added more exercises around the dog walk. She said adding exercises to an existing activity took the pressure off of creating a whole new daily exercise. And now more than a year later, she consistently exercises around the dog walk.
+
+>- 句子拆分：She said ( adding exercises to an existing activity ) took the pressure off of ( creating a whole new daily exercise ).
+> - took the pressure off of: "to" 表示“将压力从创建新的日常活动中解放出来”，而 "off" 表明“压力的来源”。
+> - around the dog walk: "around" 强调了遛狗不仅是她锻炼的一部分，而且是她整体锻炼计划中的一个关键环节。
 
 Kee said, “I’ve found it to be really effective in helping me be consistent with things that I really do want to do.”
 
