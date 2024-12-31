@@ -1,0 +1,86 @@
+---
+layout:     post
+title:      "【学习路线】Java"
+subtitle:   ""
+date:       2024-12-31
+author:     "Jane"
+header-img: ""
+tags:
+    - Java
+---
+
+<br>
+<table> 
+	<tr>
+        <td colspan="2"><a href="https://javabetter.cn/xuexiluxian/java/yitiaolong.html#java-%E5%AD%A6%E4%B9%A0%E7%9A%84%E9%87%8D%E7%82%B9%E6%98%AF%E4%BB%80%E4%B9%88">参考：二哥的Java进阶之路</a></td>     
+    </tr>
+    <tr>
+        <td colspan="2"><b>计算机基础</b></td>     
+    </tr>
+    <tr>
+        <td><a href="https://blog.csdn.net/OTTOkongbai/article/details/144281938">计算机组成原理</a></td> 
+        <td ><a href="https://blog.csdn.net/OTTOkongbai/article/details/141282640">操作系统</td>    
+    </tr>
+    <tr> 
+           <td ><a href="https://blog.csdn.net/OTTOkongbai/article/details/141282080">计算机网络</td>    
+            <td ><a href="https://blog.csdn.net/OTTOkongbai/article/details/127728514">数据结构与算法</td>    
+    </tr>
+	<tr>
+        <td colspan="2"><b>Java基础</b></td>     
+    </tr>
+    <tr>
+        <td rowspan="2"><b>基础</b></td>    
+        <td><a href="https://blog.csdn.net/OTTOkongbai/article/details/144281938">1、基础</a></td> 
+    </tr>
+    <tr> 
+         <td><a href="https://blog.csdn.net/OTTOkongbai/article/details/144276287">2、集合框架 JCF</a></td> 
+    </tr>
+     <tr> 
+        <td rowspan="2"><b>进阶</b></td>    
+		<td><a href="https://blog.csdn.net/OTTOkongbai/article/details/144281971">3、并发编程 JUC</a></td> 
+    </tr>
+    <tr> 
+         <td><a href="https://blog.csdn.net/OTTOkongbai/article/details/144282020">4、虚拟机 JVM</a></td> 
+    </tr> 
+	<tr>
+        <td colspan="2"><b>企业级开发</b></td>     
+    </tr>
+    <tr>
+        <td rowspan="3"><b>框架</b></td>    
+        <td><a href="https://blog.csdn.net/OTTOkongbai/article/details/">Spring</a></td> 
+    </tr>
+    <tr> 
+         <td><a href="https://blog.csdn.net/OTTOkongbai/article/details/">Spring Boot</a></td> 
+    </tr>
+    <tr> 
+         <td><a href="https://blog.csdn.net/OTTOkongbai/article/details/">Spring Cloud</a></td> 
+    </tr>
+     <tr>
+        <td colspan="2"><b>中间件</b></td>     
+    </tr>
+    <tr>
+        <td rowspan="2"><b>消息队列</b></td>   
+         <td><a href="https://blog.csdn.net/OTTOkongbai/article/details/">RabbitMQ</a></td> 
+    </tr>
+    <tr> 
+         <td><a href="https://blog.csdn.net/OTTOkongbai/article/details/">Kafka</a></td> 
+    </tr>
+      <tr>
+        <td colspan="2"><b>数据库</b></td>     
+    </tr>
+    <tr>
+        <td><a href="https://blog.csdn.net/OTTOkongbai/article/details/141301077">MySQL</a></td> 
+         <td><a href="https://blog.csdn.net/OTTOkongbai/article/details/">Redis</a></td> 
+    </tr>
+     <tr>
+        <td colspan="2"><b>微服务</b></td>     
+    </tr>
+    <tr>
+        <td><a href="https://blog.csdn.net/OTTOkongbai/article/details/141301077">--</a></td> 
+         <td><a href="https://blog.csdn.net/OTTOkongbai/article/details/">--</a></td> 
+    </tr>
+    <tr>
+        <td colspan="2"><a href="https://blog.csdn.net/OTTOkongbai/article/details/141363248">面试总结</a></td>     
+    </tr>
+     
+</table>    
